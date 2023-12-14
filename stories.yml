@@ -295,6 +295,8 @@ stories:
   - action: utter_cheer_up
   - intent: request_spotify
   - action: action_play_spotify_anxiety
+  - action: utter_are_you_feeling_better
+  - intent: deny
   - action: utter_question
   - intent: shut_down
   - action: utter_shut_down
