@@ -15,6 +15,7 @@ stories:
 - story: happy path 2
   steps:
   - intent: mood_great
+  - action: utter_happy
   - action: utter_sleep_question
   - intent: deny
   - action: utter_sleep_alarm_no
