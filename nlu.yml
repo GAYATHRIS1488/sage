@@ -93,13 +93,13 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
 
-- intent: question1
-  examples: |
-    - I am feeling sad
-    - worried
-    - lonely
-    - depressed
-    - I am feeling hopeless
+# - intent: question1
+#   examples: |
+#     - I am feeling sad
+#     - worried
+#     - lonely
+#     - depressed
+#     - I am feeling hopeless
 
 - intent: suicidal_path
   examples: |
