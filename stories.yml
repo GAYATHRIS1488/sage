@@ -9,7 +9,7 @@ stories:
   - intent: affirm
   - action: utter_add_event
   - action: action_add_event
-  - action: utter_goodbye
+  
 
 - story: happy path 2
   steps:
