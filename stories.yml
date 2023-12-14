@@ -5,6 +5,7 @@ stories:
 - story: happy path 1
   steps:
   - intent: mood_great
+  - action: utter_happy
   - action: utter_sleep_question
   - intent: affirm
   - action: utter_add_event
