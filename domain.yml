@@ -17,7 +17,6 @@ intents:
   - guide
   - breathing_exercise
   - grounding_exercise
-  - exercise
   - watch_breathing_exercise
   - watch_grounding_exercise
   - request_spotify
